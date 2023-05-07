@@ -1,11 +1,11 @@
 .odd {
-    color: rgb(254, 44, 84);
+    background-color: rgb(254, 44, 84);
     font-family: "Verdana", "DejaVu Sans", "sans-serif";
 }
 
 #second {
-    color: hsl(120, 80%, 50%);
-    font-size: 24px;
+    color: hsl(199, 80%, 61%);
+    font-size: 36px;
 }
 
 #thrid {
@@ -15,4 +15,5 @@
 #fourth {
     background-color: lightgreen;
     font-weight: 750;
+    font-size: 24px;
 }
